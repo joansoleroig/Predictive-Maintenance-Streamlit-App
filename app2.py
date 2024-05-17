@@ -258,10 +258,10 @@ st.markdown("""
     <footer style="text-align: center;">
         <p>Connect with me:</p>
         <a href="https://github.com/joansoleroig" target="_blank" style="margin-right: 15px;">
-            <img src="https://raw.githubusercontent.com/joansoleroig/Predictive-Maintenance-Streamlit-App/stream/predictive-maintenance-ML-main/github-mark.png" alt="Github Logo" width="30" height="30">
+            <img src="https://raw.githubusercontent.com/joansoleroig/Predictive-Maintenance-Streamlit-App/stream/github-mark.png" alt="Github Logo" width="30" height="30">
         </a>
         <a href="https://www.linkedin.com/in/joan-sole-roig/" target="_blank">
-            <img src="https://raw.githubusercontent.com/joansoleroig/Predictive-Maintenance-Streamlit-App/stream/predictive-maintenance-ML-main/lkd.png" alt="LinkedIn Logo" width="30" height="30">
+            <img src="https://raw.githubusercontent.com/joansoleroig/Predictive-Maintenance-Streamlit-App/stream/lkd.png" alt="LinkedIn Logo" width="30" height="30">
         </a>
     </footer>
     """, unsafe_allow_html=True)
