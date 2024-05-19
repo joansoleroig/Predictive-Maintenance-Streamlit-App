@@ -1,5 +1,5 @@
-openpyxl
 streamlit==1.21.0
+openpyxl
 joblib
 pandas==1.4.2
 Pillow==9.1.0
