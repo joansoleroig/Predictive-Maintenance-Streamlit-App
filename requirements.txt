@@ -1,8 +1,9 @@
+openpyxl
 streamlit==1.21.0
-scikit-learn
-matplotlib
 joblib
-pandas
-Pillow
+pandas==1.4.2
+Pillow==9.1.0
 numpy
-seaborn
+matplotlib
+seaborn==0.11.2
+streamlit==1.21.0

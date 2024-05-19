@@ -13,7 +13,7 @@ palette = ['#FF5733', '#FFC300', '#DAF7A6', '#C70039', '#900C3F']
 plt.rcParams['axes.prop_cycle'] = plt.cycler(color=palette)
 
 # Load your pre-trained model
-rfc = joblib.load('predictive_maintenance_model.joblib')
+rfc = joblib.load('model2.joblib')
 
 # Set page config
 st.set_page_config(page_title="Machine Predictive Maintenance", layout="wide", page_icon="🔧")
