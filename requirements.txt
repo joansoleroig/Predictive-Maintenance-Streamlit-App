@@ -147,7 +147,6 @@ matplotlib==3.7.2
 matplotlib-inline==0.1.6
 mdurl==0.1.2
 meilisearch==0.21.0
-metagpt==0.8.1
 meteostat==1.6.7
 ml-dtypes==0.3.2
 mlxtend==0.23.0
