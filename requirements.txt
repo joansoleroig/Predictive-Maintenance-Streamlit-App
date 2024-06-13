@@ -13,7 +13,7 @@ anthropic==0.18.1
 anyio==4.3.0
 anytree==2.12.1
 appdirs==1.4.4
-appnope==1.1.2
+appnope==0.1.4
 asgiref==3.8.1
 asttokens==2.2.1
 astunparse==1.6.3
