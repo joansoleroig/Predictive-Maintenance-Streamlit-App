@@ -197,7 +197,7 @@ portalocker==2.8.2
 prance==23.6.21.0
 prompt-toolkit==3.0.38
 proto-plus==1.23.0
-protobuf==3.20.3
+protobuf==4.21.6
 psutil==5.9.4
 ptyprocess==0.7.0
 pure-eval==0.2.2
