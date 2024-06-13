@@ -91,7 +91,6 @@ google-generativeai==0.4.1
 google-pasta==0.2.0
 googleapis-common-protos==1.63.0
 graphviz==0.20.3
-greenlet==2.0.2
 grpcio==1.63.0
 grpcio-status==1.62.2
 grpcio-tools==1.62.2
@@ -186,7 +185,6 @@ php==1.2.1
 pickleshare==0.7.5
 pillow==9.5.0
 platformdirs==3.8.0
-playwright==1.43.0
 plotly==5.14.1
 portalocker==2.8.2
 prance==23.6.21.0
