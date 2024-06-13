@@ -6,7 +6,7 @@
 ![Joblib](https://img.shields.io/badge/Joblib-1.1.1-yellow.svg)
 
 This application is designed to predict machine failure for predictive maintenance using machine learning. It utilizes a synthetic dataset with 10,000 data points and 14 features. The application is built using a Random Forest model to classify whether the machine will experience failure or not based on the provided inputs.
-### You can find the app up and running here: https://nestlenutritionecodashboard.onrender.com/
+### You can find the app up and running here: https://predictive-maintenance-app.streamlit.app/
 
 ### Kaggle Dataset
 Click [here](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification) to view the dataset used in this project.
