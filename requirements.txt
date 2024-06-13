@@ -33,7 +33,7 @@ certifi==2023.5.7
 channels==4.0.0
 chardet==5.2.0
 charset-normalizer==2.1.1
-click==8.1.3
+click==8.1.7
 click-plugins==1.1.1
 cligj==0.7.2
 cohere==5.5.4
@@ -159,7 +159,6 @@ multiprocess==0.70.16
 multitasking==0.0.11
 munkres==1.1.4
 mypy-extensions==1.0.0
-namex==0.4.1
 nbclient==0.9.0
 nbformat==5.9.2
 nest-asyncio==1.5.7
