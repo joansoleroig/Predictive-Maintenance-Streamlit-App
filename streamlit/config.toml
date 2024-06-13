@@ -1,0 +1,2 @@
+[server]
+folderWatchBlacklist = ["*/.git/*", "*/__pycache__/*", "*/.streamlit/*"]
